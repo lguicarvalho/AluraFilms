@@ -4,6 +4,14 @@ A Alura Films contratou você para fazer uma pesquisa de mercado, com a finalida
 #### Link da Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiYWU1ODIwN2YtM2QxMi00MDdlLWExMWYtYTVjOGU4OTVmODEzIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection
 
+#### Métricas base
+* O dinheiro ganho do filme por estrela 1, estrela 2, estrela 3 e estrela 4
+* Filmes mais votados
+* Gêneros mais rentáveis
+* Estrelas que mais aparecem nos filmes
+* Explorar meta score, IMDB e número de votos
+* O percentual dos (n) gêneros mais explorados nos filmes
+
 ### Homepage - Filmes, Astros e Diretores
 ![Homepage!](https://github.com/lguicarvalho/AluraFilms/blob/main/Prints/Homepage.png "Homepage")
 
