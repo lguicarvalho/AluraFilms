@@ -4,3 +4,11 @@ A Alura Films contratou você para fazer uma pesquisa de mercado, com a finalida
 #### Link da Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiYWU1ODIwN2YtM2QxMi00MDdlLWExMWYtYTVjOGU4OTVmODEzIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection
 
+### Homepage - Filmes, Astros e Diretores
+![Homepage!](https://github.com/lguicarvalho/AluraFilms/blob/main/Prints/Homepage.png "Homepage")
+
+### Avaliações
+![Avaliações!](https://github.com/lguicarvalho/AluraFilms/blob/main/Prints/Avalia%C3%A7%C3%B5es.png "Avaliações")
+
+### Gêneros
+![Gêneros!](https://github.com/lguicarvalho/AluraFilms/blob/main/Prints/Generos.png "Gêneros")
